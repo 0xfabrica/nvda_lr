@@ -3,9 +3,7 @@ from pydantic import BaseModel
 import pickle
 import pandas as pd
 
-MODEL_PATH = (r"C:\Users\HP\Desktop\api_nvda_ml\modelo\nvda_model.pkl")
-
-with open(r'C:\Users\HP\Desktop\api_nvda_ml\modelo\nvda_model.pkl', 'rb') as file:
+with open(modelo/nvda_model.pkl, 'rb') as file:
     modelo = pickle.load(file)
 
 
