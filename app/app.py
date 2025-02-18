@@ -27,7 +27,7 @@ elif opcion == "Documentación":
 
 
 # URL de la API
-API_URL = "http://localhost:8000/predict"
+API_URL = # La dirección de tu api desplegada
 
 # Título de la aplicación
 st.title("Predicción del Precio de Cierre de NVDA")
