@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/24d67f4d-8e3b-4b9c-b9d0-38b912d30587)
+
 # Proyecto de Predicción de Precio de Cierre de NVDA
 
 Este proyecto es una aplicación de Machine Learning que utiliza un modelo de regresión lineal para predecir el precio de cierre de las acciones de NVIDIA Corporation (NVDA) basándose en datos históricos. La solución se compone de dos partes principales:
