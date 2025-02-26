@@ -139,6 +139,3 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo `LICENSE` 
 ---
 
 *Este proyecto fue desarrollado por un Data Science Junior, demostrando la aplicación práctica de técnicas de Machine Learning y el desarrollo de APIs y frontends modernos.*
-```
-
-Este README.md ofrece una visión completa del proyecto, abarcando desde la descripción general hasta instrucciones de instalación, uso, despliegue y contribuciones. Puedes ajustarlo según tus necesidades y agregar información adicional si lo consideras necesario.
