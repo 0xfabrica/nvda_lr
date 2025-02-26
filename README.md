@@ -67,7 +67,7 @@ tu_proyecto/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/0xfabrica/nvda_lr.git
 cd tu_repositorio
 ```
 
